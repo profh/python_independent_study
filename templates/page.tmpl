@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title><%=pagetitle%></title>
+<script type='text/javascript' src='static/util.js'></script>
+<link rel="stylesheet" type="text/css" href="/python/static/style.css" media="screen" />
+<%
+if show_code_css == True:
+%>
+<link rel="stylesheet" type="text/css" href="/python/SyntaxStyleSheet" media="screen" />
+<%
+#end
+%>
+</head>
+<body>
+<div id="header">
+<h1>Python Exercises</h1>
+ <div id="menu">
+  <ul id="nav">
+   <li><a href="/python/">Home</a></li>
+   <li><a href="/python/index/BookExercises">Book Exercises</a></li>
+   <li><a href="/python/ChapterExercises">Chapter Exercises</a></li>
+   <li><a href="/python/Administartion">Administration</a></li>
+  </ul>
+ </div>
+</div>
+<div id="content">
+<div id="left">
+<%
+for ablock in contentblocks:
+%>
+<h2><%=ablock['title']%></h2>
+<p><%=ablock['content']%></p>
+<%
+#end
+%>
+</div>
+	
+<div id="right">
+<%
+for sblock in sidebarblocks:
+%>
+	<div class="box">
+			<h2><%=sblock['title']%></h2>	
+			<p>
+			<ul>
+<%
+	for link in sblock['itemlist']:
+%>
+			<li><a href="<%=link['url']%>"><%=link['text']%></a></li>
+<%
+	#end
+%>
+			
+			</ul></p>
+	</div>
+<%
+#end
+%>
+	<div class="box">
+		<h2>Utilities</h2>
+		<%=elapsedseconds%> seconds to load
+		<input type='button' name='copydate' value='Copy Date/Time String' onClick="CopyTimeToClipboard();" />
+		<input type='button' name='generateTemplate' value='Copy Template' onClick="CopyTemplateToClipboard();" />
+		<input type='button' name='newTemplate' value='Create Templated File' onClick="createNewTemplate();" />
+	</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+8
+Tom 98
+Bill 70
+Susan 23
+Ari 100
+Stacy 80
+Jones 89
+Smith 10
+Eric 91

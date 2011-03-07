@@ -1,0 +1,66 @@
+In the Beginning was the Command Line 
+
+by Neal Stephenson 
+
+About twenty years ago Jobs and Wozniak, the founders of Apple, came up with the very strange idea of selling information processing 
+machines for use in the home. The business took off, and its founders made a lot of money and received the credit they deserved for being 
+daring visionaries. But around the same time, Bill Gates and Paul Allen came up with an idea even stranger and more fantastical: selling 
+computer operating systems. This was much weirder than the idea of Jobs and Wozniak. A computer at least had some sort of physical 
+reality to it. It came in a box, you could open it up and plug it in and watch lights blink. An operating system had no tangible 
+incarnation at all. It arrived on a disk, of course, but the disk was, in effect, nothing more than the box that the OS came in. The 
+product itself was a very long string of ones and zeroes that, when properly installed and coddled, gave you the ability to manipulate 
+other very long strings of ones and zeroes. Even those few who actually understood what a computer operating system was were apt to think 
+of it as a fantastically arcane engineering prodigy, like a breeder reactor or a U-2 spy plane, and not something that could ever be (in 
+the parlance of high-tech) "productized." 
+
+Yet now the company that Gates and Allen founded is selling operating systems like Gillette sells razor blades. New releases of operating 
+systems are launched as if they were Hollywood blockbusters, with celebrity endorsements, talk show appearances, and world tours. The 
+market for them is vast enough that people worry about whether it has been monopolized by one company. Even the least technically-minded 
+people in our society now have at least a hazy idea of what operating systems do; what is more, they have strong opinions about their 
+relative merits. It is commonly understood, even by technically unsophisticated computer users, that if you have a piece of software that 
+works on your Macintosh, and you move it over onto a Windows machine, it will not run. That this would, in fact, be a laughable and 
+idiotic mistake, like nailing horseshoes to the tires of a Buick. 
+
+A person who went into a coma before Microsoft was founded, and woke up now, could pick up this morning's New York Times and understand 
+everything in it--almost: 
+
+Item: the richest man in the world made his fortune from-what? Railways? Shipping? Oil? No, operating systems. Item: the Department of 
+Justice is tackling Microsoft's supposed OS monopoly with legal tools that were invented to restrain the power of Nineteenth-Century 
+robber barons. Item: a woman friend of mine recently told me that she'd broken off a (hitherto) stimulating exchange of e-mail with a 
+young man. At first he had seemed like such an intelligent and interesting guy, she said, but then "he started going all PC-versus-Mac on 
+me." 
+
+What the hell is going on here? And does the operating system business have a future, or only a past? Here is my view, which is entirely 
+subjective; but since I have spent a fair amount of time not only using, but programming, Macintoshes, Windows machines, Linux boxes and 
+the BeOS, perhaps it is not so ill-informed as to be completely worthless. This is a subjective essay, more review than research paper, 
+and so it might seem unfair or biased compared to the technical reviews you can find in PC magazines. But ever since the Mac came out, 
+our operating systems have been based on metaphors, and anything with metaphors in it is fair game as far as I'm concerned. 
+
+MGBs, TANKS, AND BATMOBILES 
+
+Around the time that Jobs, Woniak, Gates, and Allen were dreaming up these unlikely schemes, I was a teenager living in Ames, Iowa. One 
+of my friends' dads had an old MGB sports car rusting away in his garage. Sometimes he would actually manage to get it running and then 
+he would take us for a spin around the block, with a memorable look of wild youthfulon his face; to his worried passengers, he was a 
+madman, stalling and backfiring around Ames, Iowa and eating the dust of rusty Gremlins and Pintos, but in his own mind he was Dustin 
+tooling across the Bay Bridge with the wind in his hair. 
+
+In retrospect, this was telling me two things about people's relationship to technology. One was that romance and image go a long way 
+towards shaping their opinions. If you doubt it (and if you have a lot of spare time on your hands) just ask anyone who owns a Macintosh 
+and who, on those grounds, imagines him- or herself to be a member of an oppressed minority group. 
+
+The other, somewhat subtler point, was that interface is very important. Sure, the MGB was a lousy car in almost every way that counted: 
+balky, unreliable, underpowered. But it was fun to drive. It was responsive. Every pebble on the road was felt in the bones, every nuance 
+in the pavement transmitted instantly to the driver's hands. He could listen to the engine and tell what was wrong with it. The steering 
+responded immediately to commands from his hands. To us passengers it was a pointless exercise in going nowhere--about as interesting as 
+peering over someone's shoulder while he punches numbers into a spreadsheet. But to the driver it was an experience. For a short time he 
+was extending his body and his senses into a larger realm, and doing things that he couldn't do unassisted. 
+The analogy between cars and operating systems is not half bad, and so let me run with it for a moment, as a way of giving an executive 
+summary of our situation today. 
+
+Imagine a crossroads where four competing auto dealerships are situated. One of them (Microsoft) is much, much bigger than the others. It 
+started out years ago selling three-speed bicycles (MS-DOS); these were not perfect, but they worked, and when they broke you could 
+easily fix them. 
+
+There was a competing bicycle dealership next door (Apple) that one day began selling motorized vehicles--expensive but attractively 
+styled cars with their innards hermetically sealed, so that how they worked was something of a mystery. 
+

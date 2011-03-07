@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<link rel="stylesheet" href="/python/static/images/style.css" type="text/css" />
+	<link rel="stylesheet" href="/python/syntax" type="text/css" />
+	<title><%=pagetitle%></title>
+</head>
+<body>
+	<div id="page" align="center">
+		<div id="content">
+			<div id="logo">
+				<div style="margin-top:70px" class="whitetitle">PythonProj</div>
+			</div>
+			<div id="topheader">
+				<div align="left" class="bodytext">
+					<br />
+					<strong>Python Course Development Project</strong><br />
+					Professor Larry Heimann<br />
+					Ari Rubinstein<br />
+					IS Program<br />
+					2007
+				</div>
+				<div id="toplinks" class="smallgraytext">
+					
+				</div>
+			</div>
+			<div id="menu">
+				<div align="right" class="smallwhitetext" style="padding:9px;">
+					<a href="index">Home</a>
+				</div>
+			</div>
+			<div id="submenu">
+				<div align="right" class="smallgraytext" style="padding:9px;">
+					
+				</div>
+			</div>
+			<div id="contenttext">
+				<div style="padding:10px">
+					<span class="titletext"><%=heading%></span>
+					</div>
+					<div class="bodytext contenttext" align='left'>
+					<%=content%></div>
+			</div>
+			<div id="leftpanel">
+				<div align="justify" class="graypanel">
+				<%=leftpanel%>
+				</div>
+			</div>
+			<div id="footer" class="smallgraytext">
+				Python Project 2007 
+			</div>
+		</div>
+	</div>
+</body>

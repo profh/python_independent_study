@@ -1,0 +1,615 @@
+[Icon Theme]
+Name=GNOME 2.18
+Name[ar]=جنوم
+Name[az]=GNOME 2.18
+Name[be]=GNOME 2.18
+Name[be@latin]=GNOME 2.18
+Name[bg]=GNOME 2.18
+Name[bn]=গুহ্নোম
+Name[bn_IN]=GNOME 2.18
+Name[bs]=GNOME 2.18
+Name[ca]=GNOME 2.18
+Name[cs]=GNOME 2.18
+Name[cy]=GNOME 2.18
+Name[da]=Gnome
+Name[de]=GNOME 2.18
+Name[dz]=ཇི་ནོམ།
+Name[el]=GNOME 2.18
+Name[en_CA]=GNOME 2.18
+Name[en_GB]=GNOME 2.18
+Name[es]=Gnome
+Name[et]=GNOME 2.18
+Name[eu]=GNOME 2.18
+Name[fa]=گنوم
+Name[fi]=GNOME 2.18
+Name[fr]=GNOME 2.18
+Name[gl]=GNOME 2.18
+Name[gu]=જીનોમ
+Name[he]=GNOME 2.18
+Name[hi]=गनोम
+Name[hr]=GNOME 2.18
+Name[hu]=GNOME 2.18
+Name[id]=GNOME 2.18
+Name[is]=GNOME 2.18
+Name[it]=GNOME 2.18
+Name[ja]=GNOME 2.18
+Name[ka]=გნომი
+Name[ko]=그놈
+Name[lt]=GNOME 2.18 2.18
+Name[lv]=GNOME 2.18 2.18
+Name[mg]=GNOME 2.18 2.18
+Name[mk]=GNOME 2.18 2.18
+Name[ml]=GNOME 2.18 2.18
+Name[mn]=ГНОМЕ
+Name[mr]=GNOME 2.18
+Name[ms]=GNOME 2.18 2.18
+Name[nb]=GNOME 2.18 2.18
+Name[ne]=जी नोम
+Name[nl]=GNOME 2.18 2.18
+Name[nn]=GNOME 2.18 2.18
+Name[or]=ନୋମ
+Name[pa]=ਗਨੋਮ
+Name[pl]=GNOME 2.18 2.18
+Name[pt]=GNOME 2.18 2.18
+Name[pt_BR]=GNOME 2.18 2.18
+Name[ro]=GNOME 2.18 2.18
+Name[ru]=Среда GNOME 2.18 2.18
+Name[sk]=GNOME 2.18 2.18
+Name[sl]=GNOME 2.18 2.18
+Name[sq]=GNOME 2.18 2.18
+Name[sr]=Гном
+Name[sr@Latn]=Gnom
+Name[sv]=GNOME 2.18 2.18
+Name[ta]=GNOME 2.18 2.18
+Name[te]=గ్నోమ్
+Name[th]=GNOME 2.18 2.18
+Name[tk]=GNOME 2.18 2.18
+Name[tr]=GNOME 2.18 2.18
+Name[uk]=GNOME 2.18 2.18
+Name[vi]=GNOME 2.18 2.18
+Name[xh]=i-GNOME 2.18 2.18
+Name[zh_CN]=GNOME 2.18 2.18
+Name[zh_HK]=GNOME 2.18 2.18
+Name[zh_TW]=GNOME 2.18 2.18
+Comment=Default GNOME 2.18 2.18 Theme
+Comment[ar]=سِمة جنوم الإفتراضية
+Comment[az]=Ön Qurğulu Gnome Örtüyü
+Comment[be]=Прадвызначаная тэма GNOME 2.18 2.18
+Comment[be@latin]=Zmoŭčany matyŭ GNOME 2.18 2.18
+Comment[bg]=Тема на GNOME 2.18 2.18 по подразбиране
+Comment[bn]=ডিফল্ট গুহ্নোম থীম
+Comment[bn_IN]=ডিফল্ট GNOME 2.18 2.18 থিম
+Comment[bs]=Uobičajena GNOME 2.18 2.18 Tema
+Comment[ca]=Tema del GNOME 2.18 2.18 per defecte
+Comment[cs]=Implicitní téma GNOME 2.18 2.18
+Comment[cy]=Thema diofyn GNOME 2.18 2.18
+Comment[da]=Standardtema til Gnome
+Comment[de]=GNOME 2.18 2.18-Vorgabethema
+Comment[dz]=སྔོན་སྒྲིག་ཇི་ནོམ་བརྗོད་དོན།
+Comment[el]=Εξ ορισμού θέμα του Gnome
+Comment[en_CA]=Default GNOME 2.18 2.18 Theme
+Comment[en_GB]=Default GNOME 2.18 2.18 Theme
+Comment[es]=Tema predeterminado de Gnome
+Comment[et]=Gnome'i vaiketeema
+Comment[eu]=Lehenetsitako GNOME 2.18 2.18ren gaia
+Comment[fa]=تم پیش‌فرض گنوم
+Comment[fi]=Gnomen oletusteema
+Comment[fr]=Thème GNOME 2.18 2.18 par défaut
+Comment[gl]=Tema por defecto de GNOME 2.18 2.18
+Comment[gu]=મૂળભૂત જીનોમ થીમ
+Comment[he]=ערכת הנושא ברירת המחדל של Gnome
+Comment[hi]=डिफ़ॉल्ट गनोम प्रसंग
+Comment[hr]=Uobičajena tema GNOME 2.18 2.18 sustava
+Comment[hu]=Alapértelmezett GNOME 2.18 2.18-téma
+Comment[id]=Tema GNOME 2.18 2.18 Standar
+Comment[is]=Sjálfgefið GNOME 2.18 2.18 Þema
+Comment[it]=Tema predefinito di GNOME 2.18 2.18
+Comment[ja]=デフォルトの GNOME 2.18 2.18 テーマ
+Comment[ka]=ნაგულისხმევი გნომის გაფორმება
+Comment[ko]=기본 그놈 테마
+Comment[lt]=Standartinė GNOME 2.18 2.18 tema
+Comment[lv]=Noklusētā Gnome tēma
+Comment[mg]=Endrika GNOME 2.18 2.18 lasitra
+Comment[mk]=Основна тема на GNOME 2.18 2.18
+Comment[ml]=ഡീഫോള്‍ട്ട് GNOME 2.18 2.18 ഥീം
+Comment[mn]=ГНОМЕ-стандарт загварууд
+Comment[mr]=मुलभूत GNOME 2.18 2.18 थीम
+Comment[ms]=Tema GNOME 2.18 2.18 Default
+Comment[nb]=Forvalgt GNOME 2.18 2.18 tema
+Comment[ne]=पूर्वनिर्धारित जी नोम विषय
+Comment[nl]=Standaard GNOME 2.18 2.18-thema
+Comment[nn]=Vanleg GNOME 2.18 2.18-drakt
+Comment[or]=ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ ନୋମ ପ୍ରସଙ୍ଗ
+Comment[pa]=ਮੂਲ ਗਨੋਮ ਸਰੂਪ
+Comment[pl]=Domyślny motyw GNOME 2.18 2.18
+Comment[pt]=Tema GNOME 2.18 2.18 por Omissão
+Comment[pt_BR]=Tema Padrão do GNOME 2.18 2.18
+Comment[ro]=Temă implicită GNOME 2.18 2.18
+Comment[ru]=Стандартная тема среды GNOME 2.18 2.18
+Comment[sk]=Štandardná téma GNOME 2.18 2.18
+Comment[sl]=Privzeta tema GNOME 2.18 2.18
+Comment[sq]=Tema e prezgjedhur e GNOME 2.18 2.18
+Comment[sr]=Подразумевана тема Гнома
+Comment[sr@Latn]=Podrazumevana tema Gnoma
+Comment[sv]=Standardtema för GNOME 2.18 2.18
+Comment[ta]=முன்னிருப்பு GNOME 2.18 2.18 பொருள்
+Comment[te]=అప్రమెయ గ్నొమ్ వైవిద్యాంశం
+Comment[th]=ชุดตกแต่งปริยายของ Gnome
+Comment[tk]=GNOME 2.18 2.18niň oň bellenen temi
+Comment[tr]=Öntanımlı Gnome Teması
+Comment[uk]=Типова тема середовища GNOME 2.18 2.18
+Comment[vi]=Sắc thái GNOME 2.18 2.18 Mặc Định
+Comment[xh]=Misela Umxholo we GNOME 2.18 2.18
+Comment[zh_CN]=GNOME 2.18 2.18 默认主题
+Comment[zh_HK]=預設 GNOME 2.18 2.18 佈景主題
+Comment[zh_TW]=預設 GNOME 2.18 2.18 佈景主題
+
+Directories=8x8/emblems,16x16/actions,16x16/animations,16x16/apps,16x16/categories,16x16/devices,16x16/filesystems,16x16/mimetypes,16x16/places,16x16/status,16x16/stock/chart,16x16/stock/code,16x16/stock/code,16x16/stock/data,16x16/stock/document,16x16/stock/emoticons,16x16/stock/form,16x16/stock/generic,16x16/stock/image,16x16/stock/io,16x16/stock/media,16x16/stock/navigation,16x16/stock/net,16x16/stock/object,16x16/stock/table,16x16/stock/text,22x22/actions,22x22/animations,22x22/apps,22x22/categories,22x22/devices,22x22/devices,22x22/emblems,22x22/mimetypes,22x22/places,22x22/status,24x24/actions,24x24/animations,24x24/apps,24x24/categories,24x24/devices,24x24/emblems,24x24/filesystems,24x24/mimetypes,24x24/places,24x24/status,24x24/stock/chart,24x24/stock/code,24x24/stock/data,24x24/stock/document,24x24/stock/form,24x24/stock/generic,24x24/stock/image,24x24/stock/io,24x24/stock/media,24x24/stock/navigation,24x24/stock/net,24x24/stock/object,24x24/stock/table,24x24/stock/text,32x32/actions,32x32/animations,32x32/apps,32x32/categories,32x32/devices,32x32/emblems,32x32/mimetypes,32x32/places,32x32/status,48x48/actions,48x48/animations,48x48/apps,48x48/categories,48x48/devices,48x48/emblems,48x48/filesystems,48x48/mimetypes,48x48/places,48x48/stock/code,48x48/stock/document,48x48/stock/generic,48x48/stock/io,48x48/stock/net,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status,scalable/stock/generic
+
+[8x8/emblems]
+Size=8
+Context=emblems
+Type=Fixed
+
+[16x16/actions]
+Size=16
+Context=Actions
+Type=Fixed
+
+[16x16/animations]
+Size=16
+Context=Animations
+Type=Fixed
+
+[16x16/apps]
+Size=16
+Context=Applications
+Type=Fixed
+
+[16x16/categories]
+Size=16
+Context=Categories
+Type=Fixed
+
+[16x16/devices]
+Size=16
+Context=Devices
+Type=Fixed
+
+[16x16/filesystems]
+Size=16
+Context=FileSystems
+Type=Fixed
+
+[16x16/mimetypes]
+Size=16
+Context=MimeTypes
+Type=Fixed
+
+[16x16/places]
+Size=16
+Context=Places
+Type=Fixed
+
+[16x16/status]
+Size=16
+Context=Status
+Type=Fixed
+
+[16x16/stock/chart]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/code]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/data]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/document]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/emoticons]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/form]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/generic]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/image]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/io]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/media]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/navigation]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/net]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/object]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/table]
+Size=16
+Context=Stock
+Type=Fixed
+
+[16x16/stock/text]
+Size=16
+Context=Stock
+Type=Fixed
+
+[22x22/actions]
+Size=22
+Context=Actions
+Type=Fixed
+
+[22x22/animations]
+Size=22
+Context=Animations
+Type=Fixed
+
+[22x22/apps]
+Size=22
+Context=Applications
+Type=Fixed
+
+[22x22/categories]
+Size=22
+Context=Categories
+Type=Fixed
+
+[22x22/devices]
+Size=22
+Context=Devices
+Type=Fixed
+
+[22x22/emblems]
+Size=22
+Context=Emblems
+Type=Fixed
+
+[22x22/mimetypes]
+Size=22
+Context=MimeTypes
+Type=Fixed
+
+[22x22/places]
+Size=22
+Context=Places
+Type=Fixed
+
+[22x22/status]
+Size=22
+Context=Status
+Type=Fixed
+
+[24x24/actions]
+Size=24
+Context=Actions
+Type=Fixed
+
+[24x24/animations]
+Size=24
+Context=Animations
+Type=Fixed
+
+[24x24/apps]
+Size=24
+Context=Applications
+Type=Fixed
+
+[24x24/categories]
+Size=24
+Context=Categories
+Type=Fixed
+
+[24x24/devices]
+Size=24
+Context=Devices
+Type=Fixed
+
+[24x24/emblems]
+Size=24
+Context=Emblems
+Type=Fixed
+
+[24x24/filesystems]
+Size=24
+Context=FileSystems
+Type=Fixed
+
+[24x24/mimetypes]
+Size=24
+Context=MimeTypes
+Type=Fixed
+
+[24x24/places]
+Size=24
+Context=Places
+Type=Fixed
+
+[24x24/status]
+Size=24
+Context=Status
+Type=Fixed
+
+[24x24/stock/chart]
+Size=24
+Context=Stock
+Type=Fixed
+
+[24x24/stock/code]
+Size=24
+Context=Stock
+Type=Fixed
+
+[24x24/stock/data]
+Size=24
+Context=Stock
+Type=Fixed
+
+[24x24/stock/document]
+Size=24
+Context=Stock
+Type=Fixed
+
+[24x24/stock/form]
+Size=24
+Context=Stock
+Type=Fixed
+
+[24x24/stock/generic]
+Size=24
+Context=Stock
+Type=Fixed
+
+[24x24/stock/image]
+Size=24
+Context=Stock
+Type=Fixed
+
+[24x24/stock/io]
+Size=24
+Context=Stock
+Type=Fixed
+
+[24x24/stock/media]
+Size=24
+Context=Stock
+Type=Fixed
+
+[24x24/stock/navigation]
+Size=24
+Context=Stock
+Type=Fixed
+
+[24x24/stock/net]
+Size=24
+Context=Stock
+Type=Fixed
+
+[24x24/stock/object]
+Size=24
+Context=Stock
+Type=Fixed
+
+[24x24/stock/table]
+Size=24
+Context=Stock
+Type=Fixed
+
+[24x24/stock/text]
+Size=24
+Context=Stock
+Type=Fixed
+
+[32x32/actions]
+Size=32
+Context=Actions
+Type=Fixed
+
+[32x32/animations]
+Size=32
+Context=Animations
+Type=Fixed
+
+[32x32/apps]
+Size=32
+Context=Applications
+Type=Fixed
+
+[32x32/categories]
+Size=32
+Context=Categories
+Type=Fixed
+
+[32x32/devices]
+Size=32
+Context=Devices
+Type=Fixed
+
+[32x32/emblems]
+Size=32
+Context=Emblems
+Type=Fixed
+
+[32x32/mimetypes]
+Size=32
+Context=MimeTypes
+Type=Fixed
+
+[32x32/places]
+Size=32
+Context=Places
+Type=Fixed
+
+[32x32/status]
+Size=32
+Context=Status
+Type=Fixed
+
+[48x48/actions]
+Size=48
+Context=Actions
+Type=Fixed
+
+[48x48/animations]
+Size=48
+Context=Animations
+Type=Fixed
+
+[48x48/apps]
+Size=48
+Context=Applications
+Type=Fixed
+
+[48x48/categories]
+Size=48
+Context=Categories
+Type=Fixed
+
+[48x48/devices]
+Size=48
+Context=Devices
+Type=Fixed
+
+[48x48/emblems]
+Size=48
+Context=Emblems
+Type=Fixed
+
+[48x48/filesystems]
+Size=48
+Context=FileSystems
+Type=Fixed
+
+[48x48/mimetypes]
+Size=48
+Context=MimeTypes
+Type=Fixed
+
+[48x48/places]
+Size=48
+Context=Places
+Type=Fixed
+
+[48x48/stock/code]
+Size=48
+Context=Stock
+Type=Fixed
+
+[48x48/stock/document]
+Size=48
+Context=Stock
+Type=Fixed
+
+[48x48/stock/generic]
+Size=48
+Context=Stock
+Type=Fixed
+
+[48x48/stock/io]
+Size=48
+Context=Stock
+Type=Fixed
+
+[48x48/stock/net]
+Size=48
+Context=Stock
+Type=Fixed
+
+[scalable/actions]
+Size=48
+MinSize=32
+MaxSize=256
+Context=Actions
+Type=Scalable
+
+[scalable/apps]
+Size=48
+MinSize=32
+MaxSize=256
+Context=Apps
+Type=Scalable
+
+[scalable/categories]
+Size=48
+MinSize=32
+MaxSize=256
+Context=Categories
+Type=Scalable
+
+[scalable/devices]
+Size=48
+MinSize=32
+MaxSize=256
+Context=Devices
+Type=Scalable
+
+[scalable/emblems]
+Size=48
+MinSize=32
+MaxSize=256
+Context=Emblems
+Type=Scalable
+
+[scalable/mimetypes]
+Size=48
+MinSize=32
+MaxSize=256
+Context=MimeTypes
+Type=Scalable
+
+[scalable/places]
+Size=48
+MinSize=32
+MaxSize=256
+Context=Places
+Type=Scalable
+
+[scalable/status]
+Size=48
+MinSize=32
+MaxSize=256
+Context=Status
+Type=Scalable
+
+[scalable/stock/generic]
+Size=48
+MinSize=32
+MaxSize=256
+Context=Stock
+Type=Scalable

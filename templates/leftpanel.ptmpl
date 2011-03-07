@@ -1,0 +1,20 @@
+<%
+for entry in news:
+%>					
+<span class="smalltitle"><%=entry['title']%></span>
+	<span class="bodytext">
+		<ul>
+<%
+	for line in entry['itemlist']:
+%>
+		<li><a href="<%=line['linkurl']%>"><%=line['linktext']%></a></li>
+<%	
+	#end
+	
+%>
+		</ul>
+	</span>
+<%
+#end
+
+%>

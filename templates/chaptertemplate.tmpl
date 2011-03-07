@@ -1,0 +1,24 @@
+<table border='1'>
+	<thead>
+	<tr>
+		<th>Exercise</th>
+		<th>Duration</th>
+		<th>Rating</th>
+		<th>Notes</th>
+	</tr>
+	</thead>
+	<tbody>
+<%
+for row in exercises:
+%>
+	<tr>
+		<td align='center'><%= row["exercise"] %></td>
+		<td><%= row["duration"] %></td>
+		<td align='center' bgcolor='<%= row["ratingcolor"] %>'><%=row["rating"]%></td>
+		<td><%= row["note"] %></td>
+	</tr>
+<%
+#end
+%>
+</tbody>
+</table>

@@ -1,0 +1,12 @@
+CheckSpelling Off
+DefaultType text/html
+
+SetHandler mod_python
+PythonHandler mod_python.publisher
+PythonDebug On
+
+<Files ~ "\.ptmpl$">
+Order allow,deny
+Deny from all
+</Files>
+
